@@ -23,13 +23,13 @@ This project add an API Connection for connect to your ERP and extract de Items 
 
 Alex Lleida Folch
 
-[https://www.linkedin.com/in/alexlleidafolch/]www.linkedin.com/in/alexlleidafolch
+LinkedIn: [https://www.linkedin.com/in/alexlleidafolch/]
 
-@kachundena
+Twitter: @kachundena
 
 Distributed under the GNU General Public License v3.0. 
  
-[https://github.com/kachundena/ktemes]https://github.com/kachundena/ktenes
+[https://github.com/kachundena/ktemes]
 
 # Thanks
 
