@@ -29,7 +29,7 @@ Alex Lleida Folch
 
 Distributed under the GNU General Public License v3.0. 
  
-[https://github.com/kachundena/kreference]https://github.com/kachundena/kreference
+[https://github.com/kachundena/ktemes]https://github.com/kachundena/ktenes
 
 # Thanks
 
