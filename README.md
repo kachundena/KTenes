@@ -7,7 +7,7 @@ This project add an API Connection for connect to your ERP and extract de Items 
 - Android Studio 2021.3.1
 - Kotlin
 - SQLite
-- Android Tag Group 
+- Jetpack Compose
 
 # Installation
 
